@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Duong Thanh Thong</h1>
-<h3 align="center">I'm a fullstack developer</h3>
+<h3 align="center">I'm a Fullstack Developer</h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/1708816/screenshots/15637256/media/f9826f0af8a49462f048262a8502035b.gif" alt="herocode-dthanhthong" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=herocode-dthanhthong&label=Profile%20views&color=0e75b6&style=flat" alt="herocode-dthanhthong" /> </p>
